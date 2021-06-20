@@ -1,0 +1,40 @@
+@font-face{src: url("../fontes/Merriweather-Black.ttf"); font-family: Merriweather;}
+body {
+    width: 100%;
+    background-image: url("../img/RiodeJaneiro.jpg");
+    background-color: #8300007c;
+    background-blend-mode: darken;
+    background-attachment: fixed;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    color: #f8f8f8;
+    margin: 0;
+  }
+
+P {
+      font-size: 25px;
+      position: absolute;
+      right: 30px;
+      top: 0px;
+      font-family: Merriweather;
+  }
+button {
+    background-color: #cfcfcf85;
+    border: none;
+    color: rgb(100, 100, 100);
+    padding: 20px 20px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-family: Merriweather
+  }
+h1{
+    color: rgb(255, 255, 255);
+    font-family: Merriweather;
+    font-size: 35px;
+}
+a{
+  font-size: 50px;
+  color: rgb(255, 187, 0);
+}
